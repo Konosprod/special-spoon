@@ -12,7 +12,7 @@ Discord bot to notify users if a new episode of their watching list has be relea
 
 ## How to use
 
-`!listwatch [Anilist Username]` Get into the watching loop
-`!listdel`Get outside the watching loop
+* `!listwatch [Anilist Username]` Get into the watching loop
+* `!listdel`Get outside the watching loop
 
 That's all folks

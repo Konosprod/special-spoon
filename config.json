@@ -1,0 +1,7 @@
+{
+    "token":"CHANGEME",
+    "prefix":"!",
+    "level":"info",
+    "database": "./db/herja.sqlite",
+    "channelid":"CHANGEME"
+}
